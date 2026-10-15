@@ -41,32 +41,32 @@ One system that manages everything in one place: students, teachers, subjects, a
 ### 1. Use Case Diagram
 Shows what each user (Teacher, Management, Admin) can do in the system.
 
-![Use Case](diagrams/01-use-case.png)
+![Use Case](diagrams/use-case.png)
 
 ### 2. Flow Chart
 Shows the login steps and the available processes for each user type.
 
-![Flow Chart](diagrams/02-flow-chart.png)
+![Flow Chart](diagrams/flow-chart.png)
 
 ### 3. Context Diagram
 Shows the system as one process and how it exchanges data with outside entities.
 
-![Context Diagram](diagrams/03-context-diagram.png)
+![Context Diagram](diagrams/context-diagram.png)
 
 ### 4. Data Flow Diagram (DFD)
 Breaks the system into processes and data stores.
 
-![DFD](diagrams/04-dfd.png)
+![DFD](diagrams/dfd.png)
 
 ### 5. Entity Relationship Diagram (ERD)
 Shows the main entities (Student, Teacher, Subject, Exam, Attendance, Invoices, TimeTable, User) and their relationships.
 
-![ERD](diagrams/05-erd.png)
+![ERD](diagrams/erd.png)
 
 ### 6. Database Schema
 The conceptual relational design, with primary and foreign keys.
 
-![Schema](diagrams/06-schema.png)
+![Schema](diagrams/schema.png)
 
 > The schema is a conceptual design. Odoo creates its own tables in PostgreSQL when the modules are installed.
 
@@ -77,16 +77,16 @@ The conceptual relational design, with primary and foreign keys.
 > Test data only. All names, phones, and emails are fake.
 
 ### Students
-![Students](screenshots/01-students.png)
+![Students](screenshots/students.png)
 
 ### Attendance
-![Attendance](screenshots/02-attendance.png)
+![Attendance](screenshots/attendance.png)
 
 ### Invoices
-![Invoices](screenshots/03-invoices.png)
+![Invoices](screenshots/invoices.png)
 
 ### Exams
-![Exams](screenshots/04-exams.png)
+![Exams](screenshots/exams.png)
 
 ---
 
