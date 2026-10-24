@@ -2,8 +2,8 @@
 
 A graduation project (Management Information Systems, Obour Institute, 2024/2025) that covers the **analysis, design, and setup** of an electronic management system for an educational nursery, built on **Odoo 16** using the open-source **OpenEduCat** modules.
 
-> > **Note:** Graduation team project (10 students) based on OpenEduCat.
-> > **My role:** Team leader, responsible for the programming part and the final presentation.
+> **Note:** This was a team project (10 students). The system is based on OpenEduCat, configured and customized for nursery needs.
+> **My role:** Team leader. I was responsible for the programming part of the system and for presenting the final project.
 ---
 
 ## Problem
